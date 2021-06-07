@@ -13,3 +13,4 @@ weiYeni.members.cache.get(weiUye.id).ban({reason: "URL DEİSME ALLAHINI"})
 }
 })
 })
+// maine atarsınız
