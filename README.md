@@ -1,1 +1,1 @@
-# v12allahguard
+Sadece idleri doldurmanız yeterlidir <3
